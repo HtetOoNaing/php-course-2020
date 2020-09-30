@@ -1,4 +1,4 @@
-# PHP Course 2020 Planning Lectures
+# PHP Course 2020 Lectures Planning
 
 ## Pico Innovation
 
